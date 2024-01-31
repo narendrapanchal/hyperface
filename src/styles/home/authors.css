@@ -23,8 +23,8 @@ width: max-content;
 padding: 0px 10px;
 }
 .authors .title{
-max-width: 178px;
-min-width: 178px;
+max-width: 144px;
+min-width: 144px;
 color: var(--Pure-White, #FFF);
 font-size: 14px;
 font-style: normal;
