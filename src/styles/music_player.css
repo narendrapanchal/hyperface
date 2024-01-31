@@ -1,6 +1,7 @@
 .music_player{
     background: #191B20;
     padding: 24px;
+    min-height: 100vh;
 }
 .music_player .header{
     display: flex;
