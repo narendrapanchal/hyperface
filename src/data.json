@@ -1,0 +1,88 @@
+{
+    "coursesForYou":{
+        "name":"Courses for you",
+        "description":"Listen to byte-sized audio courses from top thinkers",
+        "data":[{
+            "backgroundColor":"linear-gradient(90deg, #FAD961 0%, #F76B1C 100%)",
+            "title":"Fundamentals of Product Design",
+            "chapters":8,
+            "time":"2 Hours"
+        },
+        {
+            "backgroundColor":"linear-gradient(297deg, #8EC5FC 8.25%, #E0C3FC 91.76%)",
+            "title":"Fundamentals of Product Design Second",
+            "chapters":8,
+            "time":"2 Hours"
+        },
+        {
+            "backgroundColor":"linear-gradient(297deg, #8EC5FC 8.25%, #E0C3FC 91.76%)",
+            "title":"Fundamentals of Product Design Third",
+            "chapters":8,
+            "time":"2 Hours"
+        }]
+    },
+    "articleReads":{
+        "name":"Article Reads",
+        "description":"Listen to audio versions of top web articles",
+        "data":[{
+            "backgroundColor":"linear-gradient(270deg, #FF9A8B 0%, #FF6A88 54.59%, #FF99AC 100%)",
+            "title":"Fundamentals of Product Design",
+            "chapters":8,
+            "time":"2 Hours"
+        },
+        {
+            "backgroundColor":"linear-gradient(297deg, #FBAB7E 8.25%, #F7CE68 91.76%)",
+            "title":"Fundamentals of Product Design Second",
+            "chapters":8,
+            "time":"2 Hours"
+        },
+        {
+            "backgroundColor":"linear-gradient(297deg, #8EC5FC 8.25%, #E0C3FC 91.76%)",
+            "title":"Fundamentals of Product Design Third",
+            "chapters":8,
+            "time":"2 Hours"
+        }]
+    },
+    "tweetShort":{
+        "name":"Tweet Shorts",
+        "description":"Listen to audio versions of tweet threads",
+        "data":[{
+            "src":"/images/b_ts_man1.png",
+            "backgroundColor":"linear-gradient(297deg, #FBAB7E 8.25%, #F7CE68 91.76%)",
+            "title":"Fundamentals of Product Design ",
+            "name":"Narendra Panchal"
+        },
+        {
+            "src":"/images/b_ts_man2.png",
+            "title":"Fundamentals of Product Design Second",
+            "backgroundColor":"linear-gradient(297deg, #8EC5FC 8.25%, #E0C3FC 91.76%)",
+            "name":"Shreyas Doshi"
+
+        },
+        {
+            "src":"/images/b_ts_man1.png",
+            "title":"Fundamentals of Product Design Third",
+            "backgroundColor":"linear-gradient(297deg, #FBAB7E 8.25%, #F7CE68 91.76%)",
+            "name":"Rahul Kumar"
+
+        }]
+    },
+    "music":[
+        {
+            "name":"Fundamentals of Product Description",
+            "title":"Chapter 2 - What is Product Design?",
+            "src":"images/music_image.png",
+            "url": "music.mp3"
+
+        },
+        {
+            "name":"Fundamentals of Product Description",
+            "title":"Chapter 2 - What is Product Design?",
+            "src":"images/music_image.png",
+            "url": "music.mp3"
+
+        }
+            
+    ]
+    
+}

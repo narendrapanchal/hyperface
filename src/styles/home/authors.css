@@ -1,0 +1,49 @@
+.authors{
+    display: flex;
+    grid-gap: 16px;
+    text-decoration: none;
+}
+.authors:visited{
+    color: white;
+}
+.authors >img{
+    width: 120px;
+    height:120px;
+    border-radius: 6px;
+}
+.authors .product{
+    color: var(--Pure-White, #FFF);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; /* 160% */
+    border-radius: 10px;
+background: #2E3035;
+width: max-content;
+padding: 0px 10px;
+}
+.authors .title{
+max-width: 178px;
+min-width: 178px;
+color: var(--Pure-White, #FFF);
+font-size: 14px;
+font-style: normal;
+font-weight: 800;
+line-height: 18px;
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 2; 
+-webkit-box-orient: vertical;
+max-height: 36px;
+margin-top: 8px;
+}
+.authors .name{
+    color: var(--Pure-White, #FFF);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    opacity: 0.6;
+    margin-top: 8px;
+}
